@@ -1,0 +1,33 @@
+body {
+    justify-content: center;
+    align-items:center;
+    height: 100vh;
+    text-align: center;
+    display:grid;
+    background-image: url('bg.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+
+.centered-content {
+    text-align: center;
+}
+form {
+    padding: 50px;
+    border-radius: 10px;
+    justify-content: center;
+    align-items: center;
+    height: 150px;
+    width: 500px; 
+    display:inline-block; 
+    text-decoration: solid;
+    background-color: rgba(255, 255, 255, 0.149);
+    border: none; 
+}
+h1{
+    color: azure;
+}
+b{
+    color: azure;
+}
